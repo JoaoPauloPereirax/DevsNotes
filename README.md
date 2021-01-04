@@ -1,6 +1,6 @@
-##DEVSNOTES: (Sistema de anotações simples)
+# DEVSNOTES: (Sistema de anotações simples)
 
-###O que o projeto precisa fazer?
+## O que o projeto precisa fazer?
 -Listar anotações
 -Pegar informações de UMA anotação
 -Inserir anotações
@@ -8,13 +8,13 @@
 -Deletar anotações
 OBS: Basicamente um CRUD
 
-###Qual  a estrutura de dados?
+## Qual  a estrutura de dados?
 -Local Para Armazenar as anotações
 --id
 --title
 --body
 
-###Quais os endpoints?
+## Quais os endpoints?
 -(METODO) / url (PARÂMETROS)
 --(GET) /api/notes      -      /api/getall.php
 --(GET) /api/note/123      -      /api/get.php?id=123
