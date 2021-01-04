@@ -1,11 +1,11 @@
 # DEVSNOTES: (Sistema de anotações simples)
 
 ## O que o projeto precisa fazer?
--Listar anotações
--Pegar informações de UMA anotação
--Inserir anotações
--Atualizar anotações
--Deletar anotações
+- Listar anotações
+- Pegar informações de UMA anotação
+- Inserir anotações
+- Atualizar anotações
+- Deletar anotações
 OBS: Basicamente um CRUD
 
 ## Qual  a estrutura de dados?
